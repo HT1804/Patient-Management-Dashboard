@@ -73,3 +73,12 @@ color code:
 orange:#FF4B2B
 gray:#313443
 
+![Screenshot 2024-04-07 020124](https://github.com/HT1804/Patient-Management-Dashboard/assets/99446386/b344855b-744a-48aa-ba51-210e105bb84e)
+
+![Screenshot 2024-04-07 015915](https://github.com/HT1804/Patient-Management-Dashboard/assets/99446386/33ea00cc-71b1-4d9c-844b-7ff0b01765e7)
+
+![Screenshot 2024-04-07 020015](https://github.com/HT1804/Patient-Management-Dashboard/assets/99446386/d29be863-2151-4a31-a7ee-446ea9b8474e)
+
+![Screenshot 2024-04-07 020024](https://github.com/HT1804/Patient-Management-Dashboard/assets/99446386/2fb246b7-556d-42ea-adee-616ebbf06b93)
+
+![Screenshot 2024-04-07 020047](https://github.com/HT1804/Patient-Management-Dashboard/assets/99446386/bad04bd4-a89c-4223-8ed9-b2c222e200b6)
